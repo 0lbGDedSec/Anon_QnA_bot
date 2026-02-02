@@ -1,6 +1,6 @@
 Anononymous Q&A bot
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-This is customizable telegram bot to get/send/answer anonymous messages. I'll mark some parts of the code, that you can customize.
+This is customizable telegram bot to get/send/reply anonymous messages. I'll mark some parts of the code, that you can customize.
 
 Introduction and examples
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -101,7 +101,7 @@ To install starter for telegram bot - write command below in Terminal.
                                                
 .. code:: shell
 
-    $ git clone https://github.com/0lbGDedSec/Anon_QnA_bot/
+    $ git clone https://github.com/0lbGDedSec/Anon_QnA_bot
     $ cd Anon_QnA_bot
 
 Configuring the code and launching
@@ -148,8 +148,18 @@ After that, you need to open ``Anon_QnA_bot.py`` with any text editors and put s
 
 If you have done this, you can launch your own bot.
 
+Launching
+---------
+
+To start full anonymous version without replies - write command below in Terminal or just open file with python.
+
 .. code:: shell
 
     $ python Anon_QnA_bot.py
+
+.. code:: shell
+
+    $ python Anon_QnA_bot(replies).py
+
 
 
