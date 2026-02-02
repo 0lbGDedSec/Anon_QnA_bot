@@ -157,6 +157,8 @@ To start full anonymous version without replies - write command below in Termina
 
     $ python Anon_QnA_bot.py
 
+Or start this version with replies and only user IDs.
+
 .. code:: shell
 
     $ python Anon_QnA_bot(replies).py
