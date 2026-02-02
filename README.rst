@@ -45,4 +45,4 @@ To install starter for telegram bot - write this in console.
                                                
 .. code:: shell
 
-    $ git clone https://github.com/0lbGDedSec/Anon_Q&A_bot/
+    $ git clone https://github.com/0lbGDedSec/Anon_QnA_bot/
