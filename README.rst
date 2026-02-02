@@ -78,7 +78,7 @@ MacOS
 ㅤPython-telegram-bot
 -------------------
 
-To install or upgrade ``python-telegram-bot`` write
+To install or upgrade ``python-telegram-bot`` write command below in Terminal.
 
 .. code:: shell
 
@@ -97,8 +97,59 @@ You can also use your favored package manager (such as ``uv``, ``hatch``, ``poet
 
 Anonymous QnA Bot
 -----------------
-To install starter for telegram bot - write this in console.
+To install starter for telegram bot - write command below in Terminal.
                                                
 .. code:: shell
 
     $ git clone https://github.com/0lbGDedSec/Anon_QnA_bot/
+    $ cd Anon_QnA_bot
+
+Configuring the code and launching
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Bot API Key
+-----------
+
+To get Bot API Key - follow pictures and steps below.
+
+1. You have to find bot with username "@BotFather" and open its app.
+
+.. image:: https://raw.githubusercontent.com/0lbGDedSec/Pictures/refs/heads/main/screenshots/bot_api_1.png
+
+2. Than you have to click on "Create a New Bot" button.
+
+.. image:: https://raw.githubusercontent.com/0lbGDedSec/Pictures/refs/heads/main/screenshots/bot_api_2.png
+
+3. The next step is to enter the information for your bot and click the "Create Bot" button.
+
+.. image:: https://raw.githubusercontent.com/0lbGDedSec/Pictures/refs/heads/main/screenshots/bot_api_3.png
+
+4. The final step is to simply click on the "Copy" button and write it down in the BOT_TOKEN code section.
+
+.. image:: https://raw.githubusercontent.com/0lbGDedSec/Pictures/refs/heads/main/screenshots/bot_api_4.png
+
+User ID
+-------
+
+To find your own telegram ID - follow again next steps and pictures.
+
+1. You have to dind bot with username "@raw_info_bot".
+
+.. image:: https://raw.githubusercontent.com/0lbGDedSec/Pictures/refs/heads/main/screenshots/user_id_1.png
+
+2. For now - you have to write ``/start`` to this bot and get your info.
+
+.. image:: https://raw.githubusercontent.com/0lbGDedSec/Pictures/refs/heads/main/screenshots/user_id_2.png
+
+Editing code
+------------
+
+After that, you need to open ``Anon_QnA_bot.py`` with any text editors and put some information in the commented lines of code.
+
+If you have done this, you can launch your own bot.
+
+.. code:: shell
+
+    $ python Anon_QnA_bot.py
+
+
