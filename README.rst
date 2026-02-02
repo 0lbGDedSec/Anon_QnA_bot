@@ -39,7 +39,7 @@ Or you can use second method
 
 You can also use your favored package manager (such as ``uv``, ``hatch``, ``poetry``, etc.) instead of ``pip``.
 
-Anonymous Q&A Bot
+Anonymous QnA Bot
 -----------------
 To install starter for telegram bot - write this in console.
                                                
