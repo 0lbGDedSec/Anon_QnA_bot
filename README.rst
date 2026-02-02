@@ -144,7 +144,7 @@ To find your own telegram ID - follow again next steps and pictures.
 Editing code
 ------------
 
-After that, you need to open ``Anon_QnA_bot.py`` with any text editors and put some information in the commented lines of code.
+After that, you need to open ``Anon_QnA_bot.py`` or ``Anon_QnA_bot(replies).py`` with any text editors and put some information in the commented lines of code.
 
 If you have done this, you can launch your own bot.
 
