@@ -172,6 +172,6 @@ Link to chat: `Click here <https://t.me/+eN9xmS0hBJQ4ZGVi>`_
 
  
 
-If you have any ideas or questions, write them in `Issues. <>`_.
+If you have any ideas or questions, write them in `Issues. <https://github.com/0lbGDedSec/Anon_QnA_bot/issues>`_.
 
 
