@@ -163,10 +163,15 @@ Or start this version with replies and only user IDs.
 
     $ python Anon_QnA_bot(replies).py
 
-Troubleshooting 
-~~~~~~~~~~~~~~~
+Troubleshooting and updates
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 If anyone have any problems with bot(s). You can write in our Telegram chat, and we will help you.
 
 Link to chat: `Click here <https://t.me/+eN9xmS0hBJQ4ZGVi>`_
+
+ 
+
+If you have any ideas or questions, write them in `Issues. <>`_.
+
 
