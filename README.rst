@@ -1,4 +1,4 @@
-About
+About bot
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 This is customizable telegram bot to get/send/reply anonymous messages. I'll mark some parts of the code, that you can customize. You can talk to someone and reply to messages, and no one will know who are you. In repository you can find two versions. First is full anonymous, but you cannot reply to messages, second gives you possibility to reply messages, ban users and unban users, but you will see other users IDs.
 
