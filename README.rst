@@ -39,6 +39,11 @@ Video message:
 
 .. image:: https://github.com/0lbGDedSec/Pictures/blob/main/screenshots/example_4.jpg
 
+Using 
+-----
+
+To start bot, use ``/start``. After this you can send messages or check commands by ``/help`` (commands from ``/help`` available only in replies version).
+
 
 Installing
 ~~~~~~~~~~
