@@ -16,6 +16,30 @@ To use bot you must have
 
 * Git
 
+Examples
+--------
+
+Text message:
+
+.. image:: https://raw.githubusercontent.com/0lbGDedSec/Pictures/refs/heads/main/screenshots/example_1.jpg
+
+Photo:
+
+.. image:: https://github.com/0lbGDedSec/Pictures/blob/main/screenshots/example_2.jpg
+
+Video:
+
+.. image:: https://github.com/0lbGDedSec/Pictures/blob/main/screenshots/example_5.jpg
+
+Voice message:
+
+.. image:: https://github.com/0lbGDedSec/Pictures/blob/main/screenshots/example_3.jpg
+
+Video message:
+
+.. image:: https://github.com/0lbGDedSec/Pictures/blob/main/screenshots/example_4.jpg
+
+
 Installing
 ~~~~~~~~~~
 
