@@ -135,6 +135,7 @@ To install starter for telegram bot - write command below in Terminal.
 
 Or you can download files in .zip from Code button.
 
+.. image:: https://raw.githubusercontent.com/0lbGDedSec/Pictures/refs/heads/main/screenshots/download.jpg
 
 
 Configuring the code and launching
