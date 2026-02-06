@@ -133,6 +133,10 @@ To install starter for telegram bot - write command below in Terminal.
     $ git clone https://github.com/0lbGDedSec/Anon_QnA_bot
     $ cd Anon_QnA_bot
 
+Or you can download files in .zip from Code button.
+
+
+
 Configuring the code and launching
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
